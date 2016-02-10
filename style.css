@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+}
+
+.container{
+ 
+  position: relative;
+  font-family:arial;
+}
+
+.navegador{
+  background-color: gray;
+  padding-left: 20px;
+   height: 50px;
+  
+}
+h1{
+  color:white;
+  font-size:35px;
+ 
+}
+.borde{
+   padding: 0px;
+}
+.lista{
+  background-color:blue;
+  text-align: center;  
+  border:3px solid white;
+  height: 30px;
+  width: 200px;
+  color:white;
+}
+.parrafo{
+  position: absolute;
+  top:70px;
+  left:220px; 
+}
+.imagen{
+  clear:both;
+    width: 20%;
+    height: 20%;
+}
